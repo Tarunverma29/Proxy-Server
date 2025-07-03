@@ -22,22 +22,6 @@ The **ESP32 Proxy Server** is an embedded networking project that intercepts and
 - 🛡️ **Filtering**: Domain, keywords, IP/MAC whitelist
 - 📊 **Web Dashboard** for control and logs
 - 🔐 Optional **Authentication & TLS**
-
----
-
-## 🧩 Project Structure
-
-
----
-
-## 📸 Screenshots
-
-<!-- Add actual screenshots of your Web UI or ESP32 serial monitor here -->
-<p align="center">
-  <img src="docs/screenshot1.png" width="400"/>
-  <img src="docs/screenshot2.png" width="400"/>
-</p>
-
 ---
 
 ## 🧪 Technologies Used
